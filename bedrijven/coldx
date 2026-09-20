@@ -1,0 +1,23 @@
+<article class="card">
+  <h3>
+    <a href="../bedrijven/coldx.html">
+      ColdX
+    </a>
+  </h3>
+
+  <p>
+    Droogijs, cold-chain logistiek en
+    specialistisch transport voor
+    temperatuurgevoelige zendingen.
+  </p>
+
+  <span class="tag">Dry ice</span>
+  <span class="tag">Coldchain</span>
+
+  <p>
+    <a class="text-link"
+       href="../bedrijven/coldx.html">
+      Bekijk bedrijfsprofiel →
+    </a>
+  </p>
+</article>
